@@ -5,6 +5,15 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * This is my solution to the Codility BinaryGap problem.
+ * 
+ * My solution is to use Regex on binary string representations. Performance
+ * is not assessed, but this is probably pretty quick as regex is pretty 
+ * optimized.
+ * @author polar
+ *
+ */
 public class Solution {
 	
     public int solution(int N) {
