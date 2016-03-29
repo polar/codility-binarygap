@@ -7,6 +7,8 @@ import java.util.regex.Pattern;
 
 /**
  * This is my solution to the Codility BinaryGap problem.
+ * https://codility.com/demo/take-sample-test/binary_gap/
+ * 
  * 
  * My solution is to use Regex on binary string representations. Performance
  * is not assessed, but this is probably pretty quick as regex is pretty 
